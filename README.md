@@ -1,2 +1,2 @@
-# interview-challanges
+# interview
 İş başvuruları sorular kaynaklar
