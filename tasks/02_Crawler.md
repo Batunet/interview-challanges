@@ -1,4 +1,6 @@
-# Crawler
+# TASK
+
+## Crawler
 
 #### Create a simple crawler application with symfony and spatie's crawler package.
 ___
@@ -14,3 +16,5 @@ ___
     * URL Length
   - A web interface **is not necessary**.
   - External URL's should **be ignored**.
+  
+  ###### Upon completion, publish your code to GitHub and send us the link.
